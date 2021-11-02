@@ -4,7 +4,7 @@ public class InvestChoice {
 
     private double capital;
     private double x;
-    private double p = 0.4;
+    private double p;
     private double y;
 
     public InvestChoice(double capital){
